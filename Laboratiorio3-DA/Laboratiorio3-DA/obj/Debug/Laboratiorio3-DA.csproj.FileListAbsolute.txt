@@ -11,3 +11,16 @@ C:\Users\Diego Rendón\source\repos\Laboratiorio3-DA\Laboratiorio3-DA\obj\Debug\
 C:\Users\Diego Rendón\source\repos\Laboratiorio3-DA\Laboratiorio3-DA\obj\Debug\Laboratiorio3-DA.pdb
 C:\Users\Diego Rendón\source\repos\Laboratiorio3-DA\Laboratiorio3-DA\obj\Debug\Laboratiorio3_DA.PlayerConfigForm.resources
 C:\Users\Diego Rendón\source\repos\Laboratiorio3-DA\Laboratiorio3-DA\obj\Debug\Laboratiorio3_DA.ResultsForm.resources
+C:\Users\Diego Rendón\Desktop\nuevo\lab3-da\Laboratiorio3-DA\Laboratiorio3-DA\bin\Debug\Laboratiorio3-DA.exe.config
+C:\Users\Diego Rendón\Desktop\nuevo\lab3-da\Laboratiorio3-DA\Laboratiorio3-DA\bin\Debug\Laboratiorio3-DA.exe
+C:\Users\Diego Rendón\Desktop\nuevo\lab3-da\Laboratiorio3-DA\Laboratiorio3-DA\bin\Debug\Laboratiorio3-DA.pdb
+C:\Users\Diego Rendón\Desktop\nuevo\lab3-da\Laboratiorio3-DA\Laboratiorio3-DA\obj\Debug\Laboratiorio3-DA.csproj.AssemblyReference.cache
+C:\Users\Diego Rendón\Desktop\nuevo\lab3-da\Laboratiorio3-DA\Laboratiorio3-DA\obj\Debug\Laboratiorio3_DA.GameConfigForm.resources
+C:\Users\Diego Rendón\Desktop\nuevo\lab3-da\Laboratiorio3-DA\Laboratiorio3-DA\obj\Debug\Laboratiorio3_DA.MainForm.resources
+C:\Users\Diego Rendón\Desktop\nuevo\lab3-da\Laboratiorio3-DA\Laboratiorio3-DA\obj\Debug\Laboratiorio3_DA.PlayerConfigForm.resources
+C:\Users\Diego Rendón\Desktop\nuevo\lab3-da\Laboratiorio3-DA\Laboratiorio3-DA\obj\Debug\Laboratiorio3_DA.Properties.Resources.resources
+C:\Users\Diego Rendón\Desktop\nuevo\lab3-da\Laboratiorio3-DA\Laboratiorio3-DA\obj\Debug\Laboratiorio3_DA.ResultsForm.resources
+C:\Users\Diego Rendón\Desktop\nuevo\lab3-da\Laboratiorio3-DA\Laboratiorio3-DA\obj\Debug\Laboratiorio3-DA.csproj.GenerateResource.cache
+C:\Users\Diego Rendón\Desktop\nuevo\lab3-da\Laboratiorio3-DA\Laboratiorio3-DA\obj\Debug\Laboratiorio3-DA.csproj.CoreCompileInputs.cache
+C:\Users\Diego Rendón\Desktop\nuevo\lab3-da\Laboratiorio3-DA\Laboratiorio3-DA\obj\Debug\Laboratiorio3-DA.exe
+C:\Users\Diego Rendón\Desktop\nuevo\lab3-da\Laboratiorio3-DA\Laboratiorio3-DA\obj\Debug\Laboratiorio3-DA.pdb

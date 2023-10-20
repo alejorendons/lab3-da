@@ -58,14 +58,14 @@
             // 
             // dtpFechaInicio
             // 
-            this.dtpFechaInicio.Location = new System.Drawing.Point(413, 57);
+            this.dtpFechaInicio.Location = new System.Drawing.Point(206, 62);
             this.dtpFechaInicio.Name = "dtpFechaInicio";
             this.dtpFechaInicio.Size = new System.Drawing.Size(268, 22);
             this.dtpFechaInicio.TabIndex = 1;
             // 
             // dtpFechaFin
             // 
-            this.dtpFechaFin.Location = new System.Drawing.Point(413, 103);
+            this.dtpFechaFin.Location = new System.Drawing.Point(206, 103);
             this.dtpFechaFin.Name = "dtpFechaFin";
             this.dtpFechaFin.Size = new System.Drawing.Size(268, 22);
             this.dtpFechaFin.TabIndex = 2;
@@ -122,7 +122,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(302, 57);
+            this.label1.Location = new System.Drawing.Point(99, 62);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(101, 16);
             this.label1.TabIndex = 9;
@@ -131,7 +131,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(302, 109);
+            this.label2.Location = new System.Drawing.Point(99, 103);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(83, 16);
             this.label2.TabIndex = 10;
